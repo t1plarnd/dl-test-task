@@ -16,5 +16,13 @@ The program outputs the **final capital size** after selecting at most **N** lap
 
 ---
 
-## Project structure
-
+## Instructions
+1. Installation:
+   to install clone this repository
+```git clone https://github.com/<your-username>/dl-test-task.git```
+2. Run this program:
+   In case you have Visual Studio 2020, double click on `task.sln`.
+   To run from terminal, compile with
+   ```g++ task/main.cpp -o main```
+   and then run the compiled program
+   ```./main```
